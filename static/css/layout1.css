@@ -1,10 +1,7 @@
 .navbar-header{
 	font-size: 18px;
-d.form-inline{
-	text-align: right;
-	padding-left: 
-	padding-right:;
 }
+/*so kinda confused about the button, and the black strip for the nav...feel so lame*/
 .btn btn-default{
   display: block;
   background: #5BD963;
@@ -12,4 +9,7 @@ d.form-inline{
 }
 body{
 
+}
+.form-inline{
+	
 }
