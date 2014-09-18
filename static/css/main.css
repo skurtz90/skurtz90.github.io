@@ -1,0 +1,37 @@
+body{
+  background-color:#E0F0B2
+
+}
+#header{
+  text-align:center;
+  color: white;
+  background-color: #8A5C00;
+  height: 50px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+
+}
+
+#header h2 {
+  line-height:50px
+}
+#footer{
+  text-align: center;
+  color: white;
+  background-color: #8A5C00;
+  clear:both;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+#nav{
+  float: left;
+  background-color: #A3A375;
+  width: 150px;
+  height:250px;
+}
+p{
+  text-align: center;
+   font-family: tahoma;
+  font-size: 15px;
+   color:#5A4700;
+}
