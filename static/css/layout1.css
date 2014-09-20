@@ -1,15 +1,62 @@
-.navbar-header{
-	font-size: 18px;
-}
-/*so kinda confused about the button, and the black strip for the nav...feel so lame*/
-.btn btn-default{
-  display: block;
-  background: #5BD963;
-  color: #5BD963;
-}
-body{
-
+.btn-btn-default{
+  background:#3FC448;
+  color: #3FC448;
+  margin-top:-40px;
+  margin-left:150px;
+  padding-top:-10px;
+  padding-bottom:5px;
+  padding-right:5px;
+  padding-left:5px;
+  color:white;
+  border-radius: 6px;
+  float:right;
+  vertical-align:top;
 }
 .form-inline{
-	
+  padding-right:200px;
+  padding-top:-10px;
+  margin-top:-40px;
+  float:right;
+  width:-50%;
+  vertical-align:top;
 }
+.navbar-header{
+	font-size: 15px;
+	padding-left:150px;
+	padding-top:14px;
+	padding-bottom: 14px;
+	background-color: black;
+	color:white;
+}
+
+/*so kinda confused about the button, and the black strip for the nav...feel so lame*/
+
+section{
+	background-color:#DBDBDB;
+	padding-right:200px;
+	padding-left:200px;
+	padding-top:100px;
+	padding-bottom:75px;
+	text-align:left;
+}
+p{
+	font-size:16px;
+	text-align:left;
+	white-space:pre-wrap;
+  line-height:150%;
+}
+.button {
+  padding:5px;
+  background-color:#2461E3;
+  color:white;
+  text-decoration:none;
+  border-radius: 5px;
+/*not sure if this is accurate*/
+  display:inline;
+  position:relative;
+  margin-top:-28px;
+  margin-left:-0.5px;
+  padding-top:-8px;
+  padding-bottom:5px;
+  padding-right:10px;
+  padding-left:10px;
